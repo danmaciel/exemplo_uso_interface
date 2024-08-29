@@ -1,0 +1,7 @@
+package br.com.mac.teste_interface.interfaces;
+
+public interface ReprodutorMusical {
+	public void tocar();
+	public void pausar();
+	public void selecionarMusica(String musica);
+}
